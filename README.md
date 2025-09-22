@@ -1,4 +1,4 @@
-<h1 aligh="center"> CHALLENGE AMIGO SECRETO </h1>
+<h1 align="center"> CHALLENGE AMIGO SECRETO </h1>
 
 <h2 align="center">
 :construction: Proyecto en construcción :construction:
