@@ -51,3 +51,10 @@ function actualizarListaAmigos() {
     resultadoElement.appendChild(li);
 
  }
+
+//Bonus: Ingresar nombres con la tecla ENTER.
+ document.getElementById('amigo').addEventListener('keypress', function(e){
+    if (e.key === 'Enter') {
+        agregarAmigo();
+    }
+ });
